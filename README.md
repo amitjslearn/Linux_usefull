@@ -9,3 +9,5 @@ https://help.ubuntu.com/community/ReinstallingSamePackages
 ## softwares
 https://github.com/fossfreedom/indicator-sysmonitor
 
+## tools
+https://www.tecmint.com/linux-password-protect-files-with-encryption/
