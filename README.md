@@ -1,4 +1,7 @@
 # Linux_usefull
+# install python3.8
+https://stackoverflow.com/a/63428617
+
 ## install ubuntu
 https://askubuntu.com/a/243408/1011904
 
